@@ -1,0 +1,66 @@
+/*This the .CSS code for the html code creates the content for my personal webpage*/
+
+@charset "utf-8";
+
+
+/*Heading style properties*/	
+h1 {
+		color: #080F5B;
+		font-family: Baufra, Arial;
+		text-align:center;
+		font-size: 50px;
+	}
+		
+h2 {
+	color: #080F5B;
+	font-family: Baufra, Arial;
+	}
+		
+h3 {
+	color: #080F5B;
+	font-family: Baufra, Arial;
+	font-weight: lighter;
+	background-color: #FBE8A6;
+	}
+		
+h4 {
+	color: #080F5B;
+	font-family: Baufra, Arial;
+	font-weight: lighter;
+	}
+		
+/*Links to other webpages or parts of code*/		
+a {
+	color: #0074E1;
+	font-weight: lighter;
+   }
+ 
+/*-paragraph*/ 
+
+
+/*body of the website*/    
+body{
+	text-align:justify;
+	background-color: #FEFFFF;
+	}
+   		 
+#navbar {
+  overflow: hidden;
+  background-color: #FBE8A6;
+}
+
+/*Navigation bar links*/
+#navbar a {
+  float: left;
+  display: block;
+  color: #0D19A3;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  
+}
+
+
+a :hover {
+color: #9E5A63;
+}
